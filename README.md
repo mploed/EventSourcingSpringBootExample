@@ -5,3 +5,6 @@ This is a very simple example project which sketches out the ideas of event sour
 You will need to install Hazelcast and run it as a server (with the default configuration)
 
 You will need to install Redis and run redis-server
+
+## Status
+This project is outdated, and no longer maintained.
